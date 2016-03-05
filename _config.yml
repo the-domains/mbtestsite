@@ -2,6 +2,7 @@ name: mbtestsite
 favicon: null
 layout_spectrum: 0.47538
 typography_spectrum: 0.40049
+title: A Trial of Grid
 cta:
   domain: null
   bucket: null
