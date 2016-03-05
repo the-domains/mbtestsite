@@ -1,0 +1,28 @@
+name: mbtestsite
+favicon: null
+layout_spectrum: 0.06093027559109032
+typography_spectrum: 0.39568474935367703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.19831464253365993
+  lightness: 0.7051150423940271
+  saturation: 0.5055221344809979
+  rhythmicContrast: 0.3520168708637357
+purpose: []
