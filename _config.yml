@@ -1,4 +1,4 @@
-name: mbtestsite
+name: MB test site
 favicon: null
 layout_spectrum: 0.47538
 typography_spectrum: 0.40049
@@ -22,8 +22,8 @@ color:
     - '#989898'
     - '#887a60'
     - '#beaf98'
-  brandStrength: 0.875
+  brandStrength: 0.5
   lightness: 0.625
   saturation: 0.25
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
